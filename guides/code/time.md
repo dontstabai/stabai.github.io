@@ -361,4 +361,4 @@ There are other guides to this subject with useful insight. They're also worth t
 
 ## Contributing
 
-This page was written by [@shawntabai](https://github.com/shawntabai), but contributions are welcome. I'll be happy to add your name for attribution too.
+This page was written by [@stabai](https://github.com/shawntabai), but contributions are welcome. I'll be happy to add your name for attribution too.
